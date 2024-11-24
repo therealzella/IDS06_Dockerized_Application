@@ -2,7 +2,7 @@
 
 This repository contains a Python application that calculates the factorial of a number, containerized using Docker. The application demonstrates building and running Docker images locally and in a CI/CD pipeline, and pushing images to Docker Hub.
 
-![Docker Screenshot](Screenshot 2024-11-23 at 23.42.35.png)
+![Dockerized App Screenshot](https://github.com/therealzella/IDS06_Dockerized_Application/blob/main/Screenshot%202024-11-23%20at%2023.42.35.png)
 
 ## Features ##
 
