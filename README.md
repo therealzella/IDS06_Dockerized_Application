@@ -2,6 +2,8 @@
 
 This repository contains a Python application that calculates the factorial of a number, containerized using Docker. The application demonstrates building and running Docker images locally and in a CI/CD pipeline, and pushing images to Docker Hub.
 
+![Docker Screenshot](Screenshot 2024-11-23 at 23.42.35.png)
+
 ## Features ##
 
 * A simple Python application (main.py) that calculates the factorial of a number.
