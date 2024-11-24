@@ -1,4 +1,4 @@
-# IDS06 Dockerized Application #
+# IDS706 Dockerized Application #
 
 This repository contains a Python application that calculates the factorial of a number, containerized using Docker. The application demonstrates building and running Docker images locally and in a CI/CD pipeline, and pushing images to Docker Hub.
 
